@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tarea2.4PM01_GustavoBrocato</string>
+    <string name="agregarFirma">Agregar Firma</string>
+    <string name="verFirmas">Ver Firmas</string>
+    <string name="regresar">Regresar</string>
+    <string name="descripcion">Descripción</string>
+    <string name="ingreseDescripcion">Ingrese una descripción</string>
+    <string name="limpiar">Limpiar</string>
+    <string name="guardar">Guardar</string>
+    <string name="respuesta">Registro ingresado con exito!</string>
+    <string name="errorIngreso">Error! no se puede registrar!</string>
+</resources>
